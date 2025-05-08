@@ -40,7 +40,7 @@ The implementation utilizes the following Python libraries:
 
 According to **MAE** quality metric usage, my team stroke the score of about 29000 which is, probably, not the best option in real life, but we were on the 3rd place of educational Kaggle contest.
 
-For contest extra info press [https://kaggle.com/competitions/ensembles-competition](here).
+For contest extra info press [here](https://kaggle.com/competitions/ensembles-competition).
 
 ## Perspectives of Usage
 
